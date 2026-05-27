@@ -15,3 +15,5 @@ frontend/.firebase/
 .DS_Store
 Thumbs.db
 .env
+
+pokedex-frontend-fixed/
