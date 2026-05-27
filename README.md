@@ -1,2 +1,0 @@
-# StackoverflowGamers
-Reto final.
