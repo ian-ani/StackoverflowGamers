@@ -1,6 +1,6 @@
 # Stack Overflow Gamers
 
-Este proyecto es una aplicación que permite gestionar Pokémon, sus tipos y relaciones. El backend está desarrollado con **Spring Boot**, utilizando **H2** como base de datos en memoria, y el frontend está construido con **Angular 19**.
+Este proyecto es una aplicación que permite gestionar Pokémon, sus tipos y relaciones. El backend está desarrollado con **Spring Boot**, utilizando **H2** como base de datos en memoria, y el frontend está construido con **Angular 21**.
 
 ## Autores
 
